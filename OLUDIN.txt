@@ -1,0 +1,2 @@
+Name: OLUDIN GODOFREDO E.
+Contribution: Added README and project structure explanation
