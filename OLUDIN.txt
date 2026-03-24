@@ -1,2 +1,2 @@
-Name: OLUDIN GODOFREDO E.
+okName: OLUDIN GODOFREDO E.
 Contribution: Added README and project structure explanation
